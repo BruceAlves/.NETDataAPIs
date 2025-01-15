@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\API.NET.DAPPER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D062ABAD-E157-400B-9B47-4BFFCA31AE6E}|API.NET.DAPPER\\API.NET.DAPPER.csproj|c:\\users\\user\\source\\repos\\api.net.dapper\\api.net.dapper\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D062ABAD-E157-400B-9B47-4BFFCA31AE6E}|API.NET.DAPPER\\API.NET.DAPPER.csproj|solutionrelative:api.net.dapper\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D062ABAD-E157-400B-9B47-4BFFCA31AE6E}|API.NET.DAPPER\\API.NET.DAPPER.csproj|c:\\users\\user\\source\\repos\\api.net.dapper\\api.net.dapper\\repository\\studentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D062ABAD-E157-400B-9B47-4BFFCA31AE6E}|API.NET.DAPPER\\API.NET.DAPPER.csproj|solutionrelative:api.net.dapper\\repository\\studentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D062ABAD-E157-400B-9B47-4BFFCA31AE6E}|API.NET.DAPPER\\API.NET.DAPPER.csproj|c:\\users\\user\\source\\repos\\api.net.dapper\\api.net.dapper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D062ABAD-E157-400B-9B47-4BFFCA31AE6E}|API.NET.DAPPER\\API.NET.DAPPER.csproj|solutionrelative:api.net.dapper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D062ABAD-E157-400B-9B47-4BFFCA31AE6E}|API.NET.DAPPER\\API.NET.DAPPER.csproj|c:\\users\\user\\source\\repos\\api.net.dapper\\api.net.dapper\\interface\\istudentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D062ABAD-E157-400B-9B47-4BFFCA31AE6E}|API.NET.DAPPER\\API.NET.DAPPER.csproj|solutionrelative:api.net.dapper\\interface\\istudentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\API.NET.DAPPER\\API.NET.DAPPER\\appsettings.json",
+              "RelativeDocumentMoniker": "API.NET.DAPPER\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\API.NET.DAPPER\\API.NET.DAPPER\\appsettings.json",
+              "RelativeToolTip": "API.NET.DAPPER\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T01:18:31.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\API.NET.DAPPER\\API.NET.DAPPER\\Interface\\IStudentsRepository.cs",
+              "RelativeDocumentMoniker": "API.NET.DAPPER\\Interface\\IStudentsRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\API.NET.DAPPER\\API.NET.DAPPER\\Interface\\IStudentsRepository.cs",
+              "RelativeToolTip": "API.NET.DAPPER\\Interface\\IStudentsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:13:08.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\API.NET.DAPPER\\API.NET.DAPPER\\Repository\\StudentsRepository.cs",
+              "RelativeDocumentMoniker": "API.NET.DAPPER\\Repository\\StudentsRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\API.NET.DAPPER\\API.NET.DAPPER\\Repository\\StudentsRepository.cs*",
+              "RelativeToolTip": "API.NET.DAPPER\\Repository\\StudentsRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:10:40.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\API.NET.DAPPER\\API.NET.DAPPER\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "API.NET.DAPPER\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\API.NET.DAPPER\\API.NET.DAPPER\\Controllers\\StudentsController.cs*",
+              "RelativeToolTip": "API.NET.DAPPER\\Controllers\\StudentsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:08:46.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

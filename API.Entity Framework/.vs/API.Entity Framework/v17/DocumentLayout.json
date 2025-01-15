@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\API.Entity Framework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D91E70F2-D5C5-4F79-AA92-AF7C38A5C6C0}|API.Entity Framework\\API.Entity Framework.csproj|c:\\users\\user\\source\\repos\\api.entity framework\\api.entity framework\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91E70F2-D5C5-4F79-AA92-AF7C38A5C6C0}|API.Entity Framework\\API.Entity Framework.csproj|solutionrelative:api.entity framework\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91E70F2-D5C5-4F79-AA92-AF7C38A5C6C0}|API.Entity Framework\\API.Entity Framework.csproj|c:\\users\\user\\source\\repos\\api.entity framework\\api.entity framework\\services\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91E70F2-D5C5-4F79-AA92-AF7C38A5C6C0}|API.Entity Framework\\API.Entity Framework.csproj|solutionrelative:api.entity framework\\services\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91E70F2-D5C5-4F79-AA92-AF7C38A5C6C0}|API.Entity Framework\\API.Entity Framework.csproj|c:\\users\\user\\source\\repos\\api.entity framework\\api.entity framework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91E70F2-D5C5-4F79-AA92-AF7C38A5C6C0}|API.Entity Framework\\API.Entity Framework.csproj|solutionrelative:api.entity framework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\API.Entity Framework\\API.Entity Framework\\Program.cs",
+              "RelativeDocumentMoniker": "API.Entity Framework\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\API.Entity Framework\\API.Entity Framework\\Program.cs",
+              "RelativeToolTip": "API.Entity Framework\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T23:20:09.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitMqService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\API.Entity Framework\\API.Entity Framework\\Services\\RabbitMqService.cs",
+              "RelativeDocumentMoniker": "API.Entity Framework\\Services\\RabbitMqService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\API.Entity Framework\\API.Entity Framework\\Services\\RabbitMqService.cs",
+              "RelativeToolTip": "API.Entity Framework\\Services\\RabbitMqService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T23:09:04.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\API.Entity Framework\\API.Entity Framework\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "API.Entity Framework\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\API.Entity Framework\\API.Entity Framework\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "API.Entity Framework\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:54:58.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
